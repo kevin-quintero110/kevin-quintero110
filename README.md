@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **kevin-quintero110/kevin-quintero110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>👋 Bienvenido a mi repositorio  </h1>
+
+Estoy iniciando mi camino en el desarrollo y aquí encontrarás proyectos que reflejan mi aprendizaje y crecimiento. Me apasiona la tecnología y siempre estoy buscando nuevas formas de mejorar mis habilidades.  
+
+Si te interesa colaborar o intercambiar ideas, ¡será un gusto conectar! 🚀 
+
+<img src="https://cdn.goconqr.com/uploads/node/image/72567433/desktop_8df3d036-09cc-429a-8929-65834513d5de.gif" width="130px">
