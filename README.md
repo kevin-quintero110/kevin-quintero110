@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>☄️Aquí encontrarás proyectos que reflejan mi crecimiento y los conocimientos que he adquirido.☄️</h3>
 
 ### 🪐 PRESENTACIÓN 🪐  
-Soy un desarrollador de software trainee de **Cali, Colombia**, con 21 años. Actualmente soy practicante en **Carvajal T&S** y estudiante en el **SENA** (Tecnólogo ADSO). Me apasiona la tecnología y el aprendizaje constante.
+Soy un desarrollador de software junior de **Cali, Colombia**, con 21 años. Actualmente soy practicante en **Carvajal T&S** y estudiante en el **SENA** (Tecnólogo ADSO). Me apasiona la tecnología y el aprendizaje constante.
 ### ⚔️ TECNOLOGIAS ⚔️
 MERN stack (MongoDB, Express, React, Node.js)  C# y SQL Server.
 
