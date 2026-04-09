@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Kevin Quintero</h1>
-<h3 align="center">QA Engineer | Software Developer | SQL Specialist</h3>
+<h3 align="center">QA Engineer | Software Developer | Data & Automation</h3>
 
 <p align="center">
   <a href="https://github.com/kevin-quintero110">
@@ -10,37 +10,38 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=QA+Engineer;Full+Stack+Developer;Data+Analysis+with+Python;Automation+Lover🚀">
+</p>
+
 ---
 
 ## 🧠 Sobre mí
 
-💻 Soy un desarrollador de software y analista de aplicativos de **Cali, Colombia 🇨🇴**  
-🚀 Apasionado por la tecnología, automatización y resolución de problemas  
-📊 Enfocado en **SQL, QA Testing y desarrollo Full Stack**  
-
-Actualmente trabajo como:
-- 🏥 **Analista de Aplicativos**
-- 🧪 QA Tester
-- ⚙️ Soporte técnico y gestión de bases de datos
+💻 Desarrollador de software y analista de aplicativos de **Cali, Colombia**  
+🚀 Apasionado por la automatización, análisis de datos y resolución de problemas  
+📊 Enfocado en **QA Testing, Python, bases de datos y desarrollo Full Stack**
 
 ---
 
 ## ⚡ Tecnologías y herramientas
 
-### 🖥️ Backend & Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+### 🖥️ Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### 📊 Data & BI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-### 🧪 QA & Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-000000?style=flat)
 
 ---
 
@@ -59,17 +60,35 @@ Actualmente trabajo como:
 - Administración PostgreSQL  
 - Testing funcional  
 - Desarrollo de interfaces web  
-- Soporte en sistemas clínicos (SIIS)  
+- Soporte en sistemas clínicos (SIIS)
+- bases de datos
+- generacion de reportes
 
 ---
 
 ## 🧩 Habilidades clave
 
-✔️ Optimización de bases de datos  
+✔️ Análisis de datos con Python (Pandas, NumPy)  
+✔️ Visualización de datos con Power BI  
 ✔️ Testing funcional y QA  
-✔️ Documentación técnica  
+✔️ Automatización de procesos  
 ✔️ Desarrollo Full Stack  
-✔️ Resolución de problemas  
+
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 **Moradasy (E-commerce Full Stack)**  
+- React + Node + MySQL  
+- Sistema de pedidos, usuarios y productos  
+
+🔹 **CRM Web**  
+- Gestión de clientes, pedidos y productos  
+- JWT + MongoDB  
+
+🔹 **Automatización con Python**  
+- Procesamiento de datos  
+- Generación de reportes  
 
 ---
 
@@ -81,19 +100,8 @@ Actualmente trabajo como:
 </p>
 
 ---
-
-## 📫 Contacto
-
-📧 Email: (pon aquí tu correo)  
-📱 Tel: +57 3155487003  
-🔗 LinkedIn: https://www.linkedin.com/in/kevin-quintero-mondragon-81b765259/
-
+##  LinkedIn: https://www.linkedin.com/in/kevin-quintero-mondragon-81b765259/
 ---
 
-## ⚡ Frase
-
-> "La tecnología no solo resuelve problemas, crea oportunidades."
-
----
-
-⭐ *Siempre aprendiendo, siempre construyendo*
+## 🧠 Actualmente aprendiendo
+- 📊 Ciencia de datos con Python
