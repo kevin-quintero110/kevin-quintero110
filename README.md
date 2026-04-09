@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=QA+Engineer;Full+Stack+Developer;Data+Analysis+with+Python;Automation+Lover🚀">
-</p>
+</h2>
 
 ---
 
