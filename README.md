@@ -29,31 +29,6 @@
 
 
 
-## 💼 Experiencia
-
-### 🏥 Clínica Colombia ES
-📅 **Julio 2025 - Actualidad**  
-**Analista de Aplicaciones**
-
-- Administración y soporte del sistema ERP clínico SIIS (Sistema Integrado de Información en Salud)
-- Administración de bases de datos **PostgreSQL**, optimización de consultas y generación de reportes gerenciales
-- Desarrollo frontend y pruebas funcionales
-- Atención en mesa de ayuda (**GLPI**) y redacción de manuales técnicos
-- **Resolución de errores en facturación electrónica**, asegurando la correcta estructura XML y validación ante la DIAN
-- **Validación de RIPS**, verificando la consistencia de los datos clínicos antes de la transmisión al Ministerio de Salud (SISPRO)
-
-### 🏢 Carvajal Tecnología y Servicios
-📅 **Diciembre 2024 - Julio 2025**  
-**Practicante Desarrollador de Software**
-
-- Automatización y depuración de servidores con PowerShell y scripts BAT
-- **Migración de bases de datos mediante API REST**
-- Administración de **DocuWare** (usuarios, flujos, facturación electrónica)
-- Testing funcional y generación de reportes en SQL Server
-- Redacción de manuales técnicos y de usuario
-
----
-
 ## 🧩 Habilidades clave
 
 ✔️ **Análisis de datos** con Python (Pandas, NumPy) y Power BI  
