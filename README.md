@@ -8,8 +8,9 @@
   <a href="https://linkedin.com/in/kevin-quintero-mondragon-81b765259/">
     <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Quintero-blue?style=flat&logo=linkedin">
   </a>
+  
   <a href="https://kevin-quintero110.github.io/portafolio/">
-    <img src="https://img.shields.io/badge/Portafolio-Visitar-purple?style=flat&logo=github">
+    portafolio
   </a>
 </p>
 
@@ -26,38 +27,7 @@
 📊 Enfocado en **QA Testing, Python, bases de datos y desarrollo Full Stack**  
 🔧 +2 años de experiencia en desarrollo de software, automatización y análisis de datos
 
----
 
-## ⚡ Tecnologías y herramientas
-
-### 🖥️ Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### 📊 Data & BI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-6366f1?style=flat&logo=n8n&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ☁️ Cloud & Automation
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
 
 ## 💼 Experiencia
 
@@ -147,12 +117,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-quintero110&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-quintero110&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
