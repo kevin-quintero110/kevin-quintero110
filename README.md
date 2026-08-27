@@ -65,15 +65,6 @@
 
 ---
 
-### 📊 Dashboard Comercial - Power BI
-**Power BI + Google Sheets + n8n**
-
-- Dashboard interactivo con KPIs de ventas, productos y clientes
-- Datos actualizados automáticamente vía n8n desde Google Sheets
-- **[🔗 Ver Dashboard](#)**
-
----
-
 ### 🛒 E-commerce APP WEB FullStack
 **React + Node + Express + MongoDB**
 
@@ -81,16 +72,7 @@
 - Proceso de facturación integrado
 - **[📁 Repositorio](https://github.com/kevin-quintero110/MoradasyStore)**
 
----
 
-### 📋 CRM - Administrador de Clientes
-**React + Node + Express + PostgreSQL**
-
-- Gestión completa de clientes, productos y pedidos
-- Desplegado en Vercel con base de datos en Supabase
-- **[🔗 Ver Demo](https://crm-frontend-kevinqm7.vercel.app/)** | **[📁 Frontend](https://github.com/kevin-quintero110/crm_frontend)** | **[📁 Backend](https://github.com/kevin-quintero110/crm_backend)**
-
----
 
 
 
